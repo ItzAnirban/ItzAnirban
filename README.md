@@ -1,4 +1,5 @@
-<div id="header" align="center">
+<h1 align="center">Hi 👋, I'm Anirban Mazumder</h1>
+<h3 align="center">Data Analysis enthusiast|Java|Python</h3>
   <img src="https://media.giphy.com/media/4B1BTOMTi8b3OdPrzy/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
